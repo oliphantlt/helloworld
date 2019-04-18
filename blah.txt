@@ -1,7 +1,0 @@
-Just trying to add a file.
-
-<<<<<<< HEAD
-Now I'm trying to change it.
-=======
-I just changed it on a different computer.
->>>>>>> 52f15bb5a43f33225ce88cbfff653e1777645847
